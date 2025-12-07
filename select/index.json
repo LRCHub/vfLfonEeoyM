@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "グッバイ宣言",
+  "base_artist": "Chinozo",
+  "createdAt": "2025-12-07T23:04:12.511387Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "Raon Lee",
+      "has_synced": true,
+      "path": "select/01_グッバイ宣言_Raon_Lee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "Raon",
+      "has_synced": true,
+      "path": "select/02_グッバイ宣言_Raon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/03_グッバイ宣言_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/04_グッバイ宣言_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "すとぷり",
+      "has_synced": true,
+      "path": "select/05_グッバイ宣言_すとぷり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/06_グッバイ宣言_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "麻婆豆腐",
+      "has_synced": true,
+      "path": "select/07_グッバイ宣言_麻婆豆腐.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "グッバイ宣言 (feat. 天馬司&鳳えむ&草薙寧々&神代類)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/08_グッバイ宣言_(feat._天馬司&鳳えむ&草薙寧々&神代類)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/09_グッバイ宣言_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/10_グッバイ宣言_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&鳳えむ&草薙寧々&神代類",
+      "has_synced": true,
+      "path": "select/11_グッバイ宣言_ワンダーランズ×ショウタイム_feat._天馬司&鳳えむ&草薙寧々&神代類.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "ワンダーランズ x ショウタイム",
+      "has_synced": true,
+      "path": "select/12_グッバイ宣言_ワンダーランズ_x_ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "Zephyrianna",
+      "has_synced": true,
+      "path": "select/13_グッバイ宣言_Zephyrianna.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "まらしぃ",
+      "has_synced": false,
+      "path": "select/14_グッバイ宣言_まらしぃ.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "marasy",
+      "has_synced": false,
+      "path": "select/15_グッバイ宣言_marasy.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "Chinozo feat. v flower",
+      "has_synced": true,
+      "path": "select/16_グッバイ宣言_Chinozo_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "グッバイ宣言",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/17_グッバイ宣言_Chinozo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グッバイ宣言",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/pl_01_グッバイ宣言_Chinozo.txt"
+    }
+  ]
+}
